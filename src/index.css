@@ -41,7 +41,8 @@ code {
 .projects,
 .experience,
 .social,
-.footer {
+.footer ,
+.achievements{
   padding: 50px 25px 25px;
 }
 
@@ -80,6 +81,19 @@ code {
 
 .header__content button {
   margin: 25px auto 0;
+  margin: 10px 5px 0;
+}
+/* ------------------------------------------------------ */
+/* --Achievements--*/
+.achievements h2 {
+  font-size: 42px;
+  margin: 25px auto;
+}
+
+.achievements p {
+  font-size: 18px;
+  line-height: 130%;
+  max-width: 75ch;
 }
 
 /* ------------------------------------------------------ */
